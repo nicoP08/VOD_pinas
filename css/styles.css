@@ -1,3 +1,4 @@
+/*animation ouverture site*/
 abody, html{
   display: block;
   width: 100%;
@@ -44,8 +45,7 @@ overflow: hidden;
   color:#313EAC;
   height: 1em;
   top: calc(50% - 1em);
-}
-
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
 .rings > *:nth-child(2){
   animation-duration: 8s;
 }
@@ -68,4 +68,6 @@ overflow: hidden;
 
 }
 
-h2{font-size: 40px; font-weight: bold;}
+h2{font-size: 40px;
+  font-weight: bold;
+  font-family: 'Signika', sans-serif;}
