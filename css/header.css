@@ -1,0 +1,30 @@
+#header
+{
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+color: blue;
+background: black;
+width: 100%;
+height: 100px;
+margin: 0px;
+padding: 0px;
+font-size: 50
+}
+
+button{
+  background: #475956;
+  color: white;
+  height: 50px;
+margin: 20px 30px 20px 30px;;
+
+}
+
+button:hover{
+  background-color: #0FB9A2;
+
+}
+
+h1{
+  margin: 40px;
+}
