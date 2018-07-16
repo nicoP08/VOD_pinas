@@ -22,9 +22,16 @@ margin: 20px 30px 20px 30px;;
 
 button:hover{
   background-color: #0FB9A2;
-
 }
 
 h1{
   margin: 40px;
+}
+#navbar{
+  background: rgba(0,0,0,0.5);
+}
+#navbar a{
+  color: white;
+  text-decoration: none;
+  margin:120px;
 }
