@@ -21,7 +21,7 @@
   <div class="container">
     <div class="rotator-wrap">
       <ul class="rotator">
-        <li> <div><img src="img/affiche1.jpg" class="carousel" alt="" width="200px" height="300px"/></div> </li>
+        <li> <div><a href="film.php"><img src="img/affiche1.jpg" class="carousel" alt="" width="200px" height="300px"/></a></div> </li>
           <li> <div><img src="img/affiche2.jpg" class="carousel" alt="" width="200px" height="300px"/></div> </li>
           <li> <div><img src="img/affiche3.jpeg" class="carousel" alt="" width="200px" height="300px"/></div> </li>
           <li> <div><img src="img/affiche4.jpg" class="carousel" alt="" width="200px" height="300px" /></div> </li>

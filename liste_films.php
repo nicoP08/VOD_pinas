@@ -27,7 +27,7 @@
     <option>genre 2</option>
     <option>genre 3</option>
   </select>
-
+<button name="rechercher">search</button>
   <footer>
   </footer>
 
