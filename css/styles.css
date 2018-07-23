@@ -180,6 +180,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7ea1c8', end
 
     .carousel {
       width:100%;
+        height: 400px;
     }
 
     @media only screen and (max-width: 767px) {
@@ -326,3 +327,5 @@ a:hover
 // so its flush against the hovered tile
 .tile:hover ~ .tile
   transform: translate3d($moveRight, 0, 0)
+
+

@@ -1,0 +1,10 @@
+.container{
+    display : flex;
+    justify-content: space-between;
+}
+
+video{
+    margin: 20px;
+    width : 800px;
+    height: 350px;
+}
