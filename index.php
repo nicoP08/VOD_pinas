@@ -21,8 +21,8 @@
   <div class="container">
     <div class="rotator-wrap">
       <ul class="rotator">
-        <li> <div><a href="films/ca1.php"><img src="img/affiche1.jpg" class="carousel" alt="" width="200px" height="300px"/></a></div> </li>
-          <li> <div><a href="films/im1.php"><img src="img/affiche2.jpg" class="carousel" alt="" width="200px" height="300px"/></a></div> </li>
+        <li> <div><a href="films/ca1.php"><img src="img/affiche1.jpg" class="carousel" alt="" width="300px" height="450px"/></a></div> </li>
+          <li> <div><a href="films/im1.php"><img src="img/affiche2.jpg" class="carousel" alt="" width="200px" height="3100px"/></a></div> </li>
           <li> <div><a href="films/im2.php"><img src="img/affiche3.jpeg" class="carousel" alt="" width="200px" height="300px"/></a></div> </li>
           <li> <div><a href="films/thor1.php"><img src="img/affiche4.jpg" class="carousel" alt="" width="200px" height="300px" /></a></div> </li>
           <li> <div><a href="films/hulk.php"><img src="img/affiche5.jpg"  class="carousel" alt="" width="200px" height="300px"/></a></div> </li>

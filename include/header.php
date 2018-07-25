@@ -11,6 +11,6 @@
       <div id="navbar">
         <a href="index.php">Accueil</a>
         <a href="#">Liste des films</a>
-        <a href="../contact.php">Contact</a>
+        <a href="contact.php">Contact</a>
 
       </div>
